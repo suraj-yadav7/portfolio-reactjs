@@ -1,14 +1,13 @@
 import Header from "./components/Header";
-import Home from "./components/Home";
-import Work from "./components/Work";
 
 
 function App() {
   return (
     <>
       <Header/>
-      <Home/>
-      <Work/>
+      <div>
+        <h1>This is demo heading</h1>
+      </div>
     </>
   );
 }

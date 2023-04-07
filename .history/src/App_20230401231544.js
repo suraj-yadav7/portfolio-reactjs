@@ -1,6 +1,5 @@
 import Header from "./components/Header";
-import Home from "./components/Home";
-import Work from "./components/Work";
+import Header from "./components/Home";
 
 
 function App() {
@@ -8,7 +7,7 @@ function App() {
     <>
       <Header/>
       <Home/>
-      <Work/>
+   
     </>
   );
 }
