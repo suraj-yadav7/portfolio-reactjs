@@ -1,0 +1,21 @@
+
+{
+
+    "projects" :[
+        {
+            "date":"20/02/2023",
+            "title" : "Modern Website",
+            "description" : "This website is designed following the mordern structure, layout and style",
+            "url" : "https://github.com/suraj-yadav7/ModernWebApp_React",
+            "imgSrc" : "https://photos.app.goo.gl/N2dv3zNfwAraSR3F9"},
+        {
+            "date":"15/03/2023",
+            "title" : "iCart",
+            "description" : "It has eCommerce layout with list of product with price and add to cart button.",
+            "url" : "https://github.com/suraj-yadav7/eCommerce-Cart-Reactjs",
+            "imgSrc" : "D:/Programming/Web Development/React Js Projects/Projects/project3/portfolio/src/assets/icart.PNG"
+        }
+        
+    ]
+
+}

@@ -1,0 +1,22 @@
+{
+
+    "projects" :[
+        {
+            "date":"20/02/2023",
+            "title" : "Modern Website",
+            "description" : "This website is designed following the mordern structure, layout and style",
+            "url" : "https://github.com/suraj-yadav7/ModernWebApp_React",
+            "imgSrc" : "src/assets/modern.PNG"
+
+        },
+        {
+            "date":"15/03/2023",
+            "title" : "iCart",
+            "description" : "It has eCommerce layout with product, price . The product can be added into cart or can removed from there",
+            "url" : "https://github.com/suraj-yadav7/eCommerce-Cart-Reactjs",
+            "imgSrc" : "https://pixabay.com/photos/hacker-silhouette-hack-anonymous-3342696/"
+        }
+        
+    ]
+
+}

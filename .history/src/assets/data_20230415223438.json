@@ -1,0 +1,21 @@
+
+{
+
+    "projects" :[
+        {
+            "date":"20/02/2023",
+            "title" : "Modern Website",
+            "description" : "This website is designed following the mordern structure, layout and style",
+            "url" : "https://github.com/suraj-yadav7/ModernWebApp_React",
+            "imgSrc" : "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406__480.jpg"},
+        {
+            "date":"15/03/2023",
+            "title" : "iCart",
+            "description" : "It has eCommerce layout with list of product with price and add to cart button.",
+            "url" : "https://github.com/suraj-yadav7/eCommerce-Cart-Reactjs",
+            "imgSrc" : "https://blog.magezon.com/wp-content/uploads/2023/02/website-shopping-cart-page.png"
+        }
+        
+    ]
+
+}
