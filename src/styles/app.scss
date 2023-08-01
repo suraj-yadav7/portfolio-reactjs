@@ -43,31 +43,3 @@ body {
   place-items: center;
 }
 
-/*
-@import "statics";
-@import "animation";
-@import "header";  //the statice values are available to header bcz statics is "import" above ii
-@import "home"; 
-@import "work";
-
-*{
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
-    font-family: $text1;
-    scroll-behavior: smooth;
-}
-a{
-    text-decoration: none;
-}
-
-body{
-    background-color: $color1;
-    overflow-x: hidden;
-}
-
-.disableBtn {
-    background-color: rgb(237,237,237);
-    cursor: not-allowed;
-}
-*/

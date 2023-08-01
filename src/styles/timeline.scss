@@ -28,6 +28,10 @@
       position: relative;
       background-color: inherit;
       width: 50%;
+      >div>h1{
+        font-size: 1.5rem;
+        font-weight: 100;
+      }
   
       &:nth-child(odd) {
         text-align: right;

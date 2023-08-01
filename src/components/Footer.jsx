@@ -4,6 +4,7 @@ import {
   AiFillGithub,
   AiFillLinkedin,
   AiOutlineArrowUp,
+  AiFillTwitterCircle
 } from "react-icons/ai";
 
 const Footer = () => {
@@ -29,6 +30,7 @@ const Footer = () => {
           <a href="https://github.com/suraj-yadav7" target={"blank"}>
             <AiFillGithub />
           </a>
+          < a href="https://twitter.com/surajyadav947" target={"blank"}><AiFillTwitterCircle/></a>
         </article>
       </aside>
       <a href="#home">

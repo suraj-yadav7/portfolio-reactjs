@@ -67,7 +67,7 @@ const Home = () => {
 
 
             <div>
-              <a href="mailto:surajkumar@gmail.com">Hire me</a>
+              <a href="https://github.com/suraj-yadav7" target={"blank"}>Github</a>
               <a href="#work">Projects <BsArrowUpRight /></a>
             </div>
 
@@ -94,7 +94,6 @@ const Home = () => {
             </article>
           </div>
         </section>
-
         <section>
           <img src={me} alt="myimage"></img>
         </section>
@@ -102,6 +101,5 @@ const Home = () => {
     </>
   )
 }
-
 export default Home
 

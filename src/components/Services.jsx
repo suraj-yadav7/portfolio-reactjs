@@ -53,7 +53,7 @@ const Services = () => {
           }}
         >
           <AiFillBuild />
-          <span>Backend Development</span>
+          <span>UX Design / SEO</span>
         </motion.div>
         <motion.div
           className="serviceBox4"
